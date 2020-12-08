@@ -1,4 +1,4 @@
-//package src;
+package squirrel;
 
 public class Squirrel{
 
@@ -15,7 +15,7 @@ public class Squirrel{
   }
 
   public void eat(String strFood){
-    System.out.println(this.name + "is eating " + strFood);
+    System.out.println(this.name + " is eating " + strFood);
   }
 
   public void run(){

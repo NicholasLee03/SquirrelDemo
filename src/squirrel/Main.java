@@ -1,6 +1,6 @@
-package src;
+package squirrel;
 
-import src.Squirrel;
+import squirrel.Squirrel;
 
 public class Main{
 
